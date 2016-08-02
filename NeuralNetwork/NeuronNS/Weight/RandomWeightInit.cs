@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NeuralNetwork.neuron.weight
+namespace NeuralNetwork.NeuronNS.Weight
 {
     public class RandomWeightInit : IWeightInit
     {

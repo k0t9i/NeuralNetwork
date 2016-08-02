@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using NeuralNetwork.neuron;
-using NeuralNetwork.activationFunction;
+using NeuralNetwork.NeuronNS;
+using NeuralNetwork.ActivationFunction;
 
-namespace NeuralNetwork.network
+namespace NeuralNetwork.Network
 {
     public class Layer
     {

@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
-using NeuralNetwork.network;
-using NeuralNetwork.activationFunction;
+using NeuralNetwork.Network;
+using NeuralNetwork.ActivationFunction;
 
-namespace NeuralNetwork.io
+namespace NeuralNetwork.IO
 {
     [DataContract]
     public class SerializableData

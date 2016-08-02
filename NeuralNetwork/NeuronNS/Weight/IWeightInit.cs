@@ -1,4 +1,4 @@
-﻿namespace NeuralNetwork.neuron.weight
+﻿namespace NeuralNetwork.NeuronNS.Weight
 {
     public interface IWeightInit
     {

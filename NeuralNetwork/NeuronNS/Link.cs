@@ -1,7 +1,7 @@
 ﻿using System;
-using NeuralNetwork.neuron.weight;
+using NeuralNetwork.NeuronNS.Weight;
 
-namespace NeuralNetwork.neuron
+namespace NeuralNetwork.NeuronNS
 {
     public class Link
     {

@@ -1,8 +1,8 @@
 ﻿using System.Linq;
-using NeuralNetwork.network;
-using NeuralNetwork.neuron;
+using NeuralNetwork.Network;
+using NeuralNetwork.NeuronNS;
 
-namespace NeuralNetwork.learning
+namespace NeuralNetwork.Learning
 {
     public class Backpropagation
     {

@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using NeuralNetwork.activationFunction;
-using NeuralNetwork.neuron.weight;
-using NeuralNetwork.neuron;
+using NeuralNetwork.ActivationFunction;
+using NeuralNetwork.NeuronNS.Weight;
+using NeuralNetwork.NeuronNS;
 
-namespace NeuralNetwork.network
+namespace NeuralNetwork.Network
 {
     public class Perceptron
     {

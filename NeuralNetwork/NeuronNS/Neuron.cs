@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using NeuralNetwork.activationFunction;
-using NeuralNetwork.neuron.weight;
+using NeuralNetwork.ActivationFunction;
+using NeuralNetwork.NeuronNS.Weight;
 
-namespace NeuralNetwork.neuron
+namespace NeuralNetwork.NeuronNS
 {
     public class Neuron
     {
